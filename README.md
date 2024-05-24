@@ -15,3 +15,6 @@ Serverless compute in Databricks refers to a flexible and cost-efficient approac
 https://learn.microsoft.com/en-us/azure/databricks/machine-learning/mlops/mlops-workflow
 
 ![End-to-end MLOps](https://github.com/isadays/Azure-Databricks/blob/main/Screenshot%202024-05-24%20at%2013.22.29.png)
+
+Databricks Autologging is a powerful feature within the Databricks platform that automates the process of tracking and logging various aspects of machine-learning experiments and workflows. It eliminates the need for manual logging and monitoring, allowing data scientists and machine learning engineers to focus on building and fine-tuning models. Databricks Autologging automatically captures essential information such as hyperparameters, metrics, and model artifacts during model training, making reproducing experiments, comparing results, and optimizing models easier. This feature not only streamlines the ML development process but also enhances collaboration and ensures that experiments are well-documented, ultimately leading to more efficient and effective machine learning workflows within Databricks.
+
