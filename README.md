@@ -8,3 +8,5 @@ The Databricks File System (DBFS) is a distributed file system designed for clou
 
 Serverless compute in Databricks refers to a flexible and cost-efficient approach to data processing and analytics where users can focus on their workloads without managing or provisioning clusters. Databricks, a unified analytics platform, automates cluster management and resource provisioning, allowing data engineers, data scientists, and analysts to run computations and workloads without the overhead of traditional infrastructure management. Key features of serverless compute in Databricks include automatic scaling, simplified cluster setup, and pay-as-you-go pricing, making it an ideal choice for data professionals seeking agility and cost-effectiveness in their data-driven projects.
 
+
+![DevOps for Notebooks](https://github.com/isadays/Azure-Databricks/blob/main/Screenshot%202024-05-24%20at%2012.27.04.png)
