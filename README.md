@@ -10,3 +10,7 @@ Serverless compute in Databricks refers to a flexible and cost-efficient approac
 
 
 ![DevOps for Notebooks](https://github.com/isadays/Azure-Databricks/blob/main/Screenshot%202024-05-24%20at%2012.27.04.png)
+
+
+https://learn.microsoft.com/en-us/azure/databricks/machine-learning/mlops/mlops-workflow
+
